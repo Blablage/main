@@ -6,7 +6,7 @@ import StudentTable from './StudentTable'
 const App = () => {
    return (
       <div>
-         <Menu/>
+         <Menu id='searchMain'/>
          <TitleSearch/>
          <StudentTable/>
       </div>
